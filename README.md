@@ -72,7 +72,6 @@ Working Live Project Display
 
 Resource Visualizer:
 
-![WhatsApp Image 2024-01-11 at 1 10 34 PM (4)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/87cb93dc-76df-4ff1-ac06-c5d59daa4766)
 
 
 

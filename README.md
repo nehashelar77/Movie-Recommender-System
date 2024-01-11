@@ -42,5 +42,47 @@ resources provided by Microsoft Azure. They enable you to run virtualized
 Windows or Linux servers in the cloud. Here are some key points about Azure 
 Virtual Machines
 
+![WhatsApp Image 2024-01-11 at 1 10 34 PM (4)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/8d3325d3-9be7-4a64-8521-7e64e1cb549b)
+
+
+
+2. Azure Monitor CPU Alert:
+Creating a CPU usage alert in Azure Monitor involves several steps. Azure Monitor 
+allows you to set up alerts based on various metrics, including CPU usage. Below is a 
+general guide on how to create a CPU usage alert using Azure Monitor:
+
+![WhatsApp Image 2024-01-11 at 1 10 34 PM (3)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/a8bd6358-53b4-413a-81db-711cc9d9b569)
+
+• Azure AI Service
+
+Azure AI Translator Service :
+The core of the translation functionality is powered by Azure AI Translator service. This 
+service employs advanced natural language processing algorithms to provide accurate 
+and contextually relevant translations across a wide array of languages.
+
+![WhatsApp Image 2024-01-11 at 1 10 34 PM (2)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/b2405fcf-2d34-4e64-bd35-f10ac9027160)
+
+Working Live Project Display
+
+![rec](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/2f47238f-3252-42ae-a0a9-c0bf0a41afbd)
+
+
+![tra](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/34982a00-5509-4b5d-aee5-0b9fcb047adb)
+
+
+Resource Visualizer:
+
+![WhatsApp Image 2024-01-11 at 1 10 34 PM (4)](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/87cb93dc-76df-4ff1-ac06-c5d59daa4766)
+
+
+
+
+
+
+
+
+
+
+
 
 

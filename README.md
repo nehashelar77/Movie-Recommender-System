@@ -73,6 +73,16 @@ Working Live Project Display
 Resource Visualizer:
 
 
+![WhatsApp Image 2024-01-11 at 1 55 28 PM](https://github.com/nehashelar77/Movie-Recommender-System/assets/156163007/4caa3752-2e3a-4620-894c-137951d821fb)
+
+Future Enhancements:
+• Integration of real-time user feedback for immediate system adaptation.
+• Exploration of deep learning models for even more accurate predictions.
+• User interface improvements for a seamless and engaging experience.
+Contact
+For questions or suggestions, please contact [vishwakarmaashwini2105@gmail.com]
+
+
 
 
 

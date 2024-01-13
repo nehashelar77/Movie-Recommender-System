@@ -1,27 +1,27 @@
-Microsoft-Future-Ready-Talent-Virtual-InternshipProject
+### Microsoft-Future-Ready-Talent-Virtual-Internship-Project
 
-Project Title: Movie Recommender System
+### Project Title: Movie Recommender System
 
-Project Description:
+## Project Description:
 This project aims to develop a movie recommendation system using soft computing 
 techniques, specifically artificial intelligence and machine learning. The system analyzes 
 user data and movie attributes to generate tailored recommendations that align with 
 individual tastes.
 
-Key Features :
+## Key Features :
 • Collaborative filtering 
 • Content based filtering
 • Machine Learning Algorithms
 • Context Awareness
 
-Prerequisites:
+## Prerequisites:
 • Azure Subscription:
 • Make sure you have an active Azure subscription.
 • Azure Virtual Machine:
 • Ensure that you have a virtual machine (VM) or another resource for 
 which you want to monitor CPU usage.
 
-Setup:
+## Setup:
 • Dependencies:
 Ensure required libraries and frameworks are installed.
  Include translation API keys for language support.
